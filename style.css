@@ -1,0 +1,38 @@
+.button-link {
+    height: 10rem;
+    width: 80vw;
+}
+
+#soundcloud-btn {
+    background:linear-gradient(120deg, #ff8800, #ff3300);
+    color: white;
+}
+
+#mixcloud-btn {
+    background:linear-gradient(-120deg, #52aad8, #273a4b, #1d2d3b);    color: white;
+}
+
+#spotify-btn {
+    background:linear-gradient(120deg, #1db954, #1f5311);    color: white;
+}
+
+#linkaband-btn {
+    color: white;
+}
+
+#instagram-btn {
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    color: white;
+}
+
+.anton {
+    font-family: "Anton", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.libre {
+    font-family: "Libre Baskerville", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
